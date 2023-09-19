@@ -1,8 +1,53 @@
-# React + Vite
+# Página Pessoal de Carlos Oliveira
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo à minha página pessoal! Esta é a minha presença online onde compartilho informações sobre mim e meu trabalho como desenvolvedor Full Stack baseado em São Paulo.
 
-Currently, two official plugins are available:
+## Conteúdo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Visão Geral](#visão-geral)
+- [Instruções de Uso](#instruções-de-uso)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Licença](#licença)
+
+## Visão Geral
+
+Esta é uma página pessoal simples criada com React e Vite. Ela inclui as seguintes seções:
+
+- **Sobre**: Informações sobre mim e minha experiência como desenvolvedor.
+- **Contato**: Um formulário de contato para que os visitantes possam entrar em contato comigo.
+
+## Instruções de Uso
+
+Para visualizar esta página pessoal localmente em sua máquina:
+
+1. Clone este repositório para o seu ambiente de desenvolvimento:
+
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+
+2. Navegue até o diretório do projeto:
+
+cd seu-repositorio
+
+
+3. Instale as dependências:
+
+npm install
+
+
+4. Inicie o servidor de desenvolvimento:
+
+npm start
+
+
+5. Abra seu navegador e acesse `http://localhost:3000` para ver a página pessoal em ação.
+
+## Tecnologias Utilizadas
+
+- React
+- Vite
+- HTML5 e CSS3
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
