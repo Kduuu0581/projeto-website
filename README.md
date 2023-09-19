@@ -22,12 +22,12 @@ Para visualizar esta página pessoal localmente em sua máquina:
 
 1. Clone este repositório para o seu ambiente de desenvolvimento:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Kduuu0581/projeto-website.git
 
 
 2. Navegue até o diretório do projeto:
 
-cd seu-repositorio
+cd projeto-website
 
 
 3. Instale as dependências:
