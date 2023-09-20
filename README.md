@@ -2,6 +2,10 @@
 
 Bem-vindo à minha página pessoal! Esta é a minha presença online onde compartilho informações sobre mim e meu trabalho como desenvolvedor Full Stack baseado em São Paulo.
 
+# Preview
+
+<img src="preview da pagina.jpeg"> 
+
 ## Conteúdo
 
 - [Visão Geral](#visão-geral)
